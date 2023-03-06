@@ -4,12 +4,11 @@ basic rules of QHAR:
 
 2: the only allowed characters are the characters in 'qhar' (both upper and lowercase are allowed), and '?!'.
 
-3: no strings because fuck you (read line 16).
+3: no strings because fuck you (read line 15).
 
 4: to make a QHAR program, make a file with the extension '.qhr'. to run that QHAR program, add the exe to your PATH (if you don't know how to, read https://gist.github.com/ScribbleGhost/752ec213b57eef5f232053e04f9d0d54 or look up a tutorial), then open a terminal in the directory of your qhr file and write 'qhar (NAME OF YOUR FILE).qhr'.
 
 5: any file has to end with the string "QHAR?!?!" or it will loop back to the start.
-
 
 now on to the specifics.
 
