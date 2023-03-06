@@ -20,4 +20,6 @@ qhar? = user input. the user will be able to input text, that text will be assig
 
 ! = print function. the print function can only print a variable. there are two different modes, 'q' and 'r'. the 'q' mode prints the number assigned to the variable you're printing, and the 'r' mode prints the character with the index of the number assigned to variable you're printing on the ascii table, i.e. a variable assigned to the number 97 in the 'r' mode would print the letter 'a' (which is the 97th character in the ascii table). rather than inputting the name of a variable, you have to print the index of that variable in the script. for example if there's three variables, to print the number assigned to third variable from the top, you would have to say '! q A'.
 
+?!?! = comment lines. the text you put after this will be ignored, has to be on a seperate line and rule 2 still applies however in this case the uppercase characters aren't allowed for limited communication.
+
 good luck...
